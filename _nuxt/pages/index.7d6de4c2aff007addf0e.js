@@ -1,0 +1,2 @@
+webpackJsonp([2],{"/TYz":function(e,t,r){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var n=r("xyoZ"),a=r("VU/8"),l=a(null,n.a,null,null,null);t.default=l.exports},xyoZ:function(e,t,r){"use strict";var n=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,t=e.$createElement,r=e._self._c||t;return r("div",[r("h1",[e._v("Transformers")]),r("p",[e._v("A bunch of pipe based transformers to facilitate your daily life.")])])}],l={render:n,staticRenderFns:a};t.a=l}});
+//# sourceMappingURL=index.7d6de4c2aff007addf0e.js.map
